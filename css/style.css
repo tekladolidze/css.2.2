@@ -1,2 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    max-width: 1900px;
+    width: 100%;
+    height: 1507px;
+   
+}
 
 
+#nav_conteiner{
+    max-width: 1920px;
+    width: 100%;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 200px;
+    margin-bottom: 178px;
+
+}
+
+#nav_logo{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 13.489px;
+    color: #000000;
+    margin-right: 80px;
+    align-items: center;
+
+}
+
+#nav_list{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 100px;
+    font-size: 18px;
+
+}
+
+
+#nav_button{
+    display: inline-block;
+    vertical-align: middle;
+}
+  
+
+#pink_a{
+    color: #FF5DA3;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+#black_a{
+    color: #323232;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#black_click{
+    color: #323232;
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+#click_black{
+    color: #323232;
+    padding: 20px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+
+
+#Cont_but{
+    border-radius: 8px;
+    background: #00AC25;
+    padding: 8px 16px;
+    align-items: center;
+    height: 35px;
+    border: 0;
+}
+
+#Cont_text{
+   color: #FFFFFF;
+   text-decoration: none;
+   
+}
+
+#instructor_conteiner{
+    width: 1300px;
+    height: 543px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 578px;
+}
+
+#h1{
+    max-height: 174px;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+
+    margin-bottom: 24px;
+}
+
+#first{
+    padding-top: 25;
+    color: #000;
+}
+
+#second_text{
+    color: #FF5DA3;
+    margin-top: 24px;
+}
+
+#paragraf_{
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#h2_title{
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+#color_paragraf{
+    display: inline-block;
+    max-width: 716px;
+    width: 100%;
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 24px;
+
+}
+
+#instructor_button{
+    border-radius: 8px;
+    background: #00AC25;
+    align-items: center;
+    padding: 16px 24px;
+    border: 0;
+}
+
+#instr_text{
+    color: #FFF;
+    font-size: 18px;
+}
+
+#main_footer{
+    background-color: #53389E;
+    margin-top: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+
+
+#footer_coneiner{
+    text-align: center;
+    max-width: 1216px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#purple_circle{
+    width: 16px;
+    height: 16px;
+    display: inline;
+    padding: 8px;
+    border-radius: 8px;
+   
+}
+
+#purple_circle_foto{
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#logo_type{
+    vertical-align: middle;
+}
+
+#link_box{
+    padding: 32px;
+    vertical-align: middle;
+    font-weight: 600;
+    color: #E9D7FE;
+    
+}
