@@ -87,13 +87,10 @@ body{
     align-items: center;
     height: 35px;
     border: 0;
+    color: #FFFFFF;
 }
 
-#Cont_text{
-   color: #FFFFFF;
-   text-decoration: none;
-   
-}
+
 
 #instructor_conteiner{
     width: 1300px;
@@ -152,17 +149,18 @@ body{
 }
 
 #instructor_button{
+    display: inline;
+    text-align: left;
+    margin: 0 auto;
     border-radius: 8px;
     background: #00AC25;
     align-items: center;
     padding: 16px 24px;
     border: 0;
-}
-
-#instr_text{
     color: #FFF;
     font-size: 18px;
 }
+
 
 #main_footer{
     background-color: #53389E;
@@ -175,34 +173,45 @@ body{
 
 #footer_coneiner{
     text-align: center;
-    max-width: 1216px;
+    margin: 0 auto;
+    display: inline-block;
+    max-width: 1920px;
     width: 100%;
     margin: 0 auto;
     padding: 20px;
 }
 
-#purple_circle{
-    width: 16px;
-    height: 16px;
+#foto_conteiner{
+    max-width: 97px;
+    width: 100%;
+    height: 32px;
     display: inline;
-    padding: 8px;
-    border-radius: 8px;
-   
 }
 
+
 #purple_circle_foto{
+    height: 32px;
     vertical-align: middle;
+    margin: 0 auto;
     margin-right: 10px;
 }
 
 #logo_type{
     vertical-align: middle;
+    margin: 0 auto;
 }
 
 #link_box{
     padding: 32px;
+    display: inline;
+    padding-right: 32px;
     vertical-align: middle;
+    margin: 0 auto;
     font-weight: 600;
     color: #E9D7FE;
-    
+}
+
+a{
+    color: #E9D7FE;
+    padding: 32px;
 }
